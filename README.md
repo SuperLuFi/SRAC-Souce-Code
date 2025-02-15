@@ -40,4 +40,5 @@ Setelah mengunduh source code dari repository GitHub. Ekstrak SRAC 2002 atau 200
 
 Detailnya akan diposting web Fisnuk UIN SGD Bandung.
 
-[Fisika Nuklir Reaktor - UIN Bandung](http://fisnuk-uinsgd.rf.gd/)
+[Fisika Nuklir Reaktor - UIN Bandung](https://superlufi.github.io/)
+
